@@ -1,6 +1,6 @@
 {
 	"appname": "1031-test",
-	"scope": "FullAccess",
+	"scope": "FullAccess BuyerReader",
 	"clientid": "48BCE4F3-0630-4247-BC4B-EE5AA009CD21",
 	"buyerid": "Buyer01",
 	"catalogid": "Buyer01",
